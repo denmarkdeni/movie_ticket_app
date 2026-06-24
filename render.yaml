@@ -26,7 +26,7 @@ services:
       - key: CORS_ALLOWED_ORIGINS
         sync: false
       - key: CITY_NAME
-        value: YourCity
+        value: Chennai
       - key: ALLOWED_HOSTS
         value: movie-ticket-api.onrender.com
 
